@@ -1,0 +1,8 @@
+title: Courera-test
+description: "This is a coursera test repository that I'm learning with ychaikin.  "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
